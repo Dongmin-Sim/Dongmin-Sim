@@ -8,4 +8,4 @@ ML study
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer$color=gradient&height=150)
+![footer](https://capsule-render.vercel.app/api?type=waving$color=gradient&height=150&section=footer)
