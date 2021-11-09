@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=👋Hi!%20%20I'm%20Dongmin!&fontAlign=50&fontAlignY=40&fontSize=40)
 
 ## About me 
-<!-- 소개글 -->
+<!-- 소개글 --> 
 <div align>
 <!--   <strong>  -->
     🌱 안녕하세요, 대학병원에서 의료정보관리사로 근무 후, <br>
@@ -75,8 +75,6 @@
 
 
 <br/> 
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Dongmin-Sim&&style=flat-square)  
-
 <br/>  
 
